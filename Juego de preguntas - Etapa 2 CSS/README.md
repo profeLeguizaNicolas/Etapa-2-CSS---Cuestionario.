@@ -1,6 +1,6 @@
 <div style="text-align: justify">
 
-# Proyecto 1 - Juego de preguntas.
+# Proyecto 1 - Cuestionario personalizado.
 
 <br>
 
@@ -128,6 +128,7 @@ legend {
 ```
 
 </fieldset>
+
 
 
 
